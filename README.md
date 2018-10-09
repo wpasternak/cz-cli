@@ -227,7 +227,7 @@ We know that every project and build process has different requirements so we've
 - [cz-conventional-changelog](https://www.npmjs.com/package/cz-conventional-changelog)
 - [cz-jira-smart-commit](https://www.npmjs.com/package/cz-jira-smart-commit)
 - [rb-conventional-changelog](https://www.npmjs.com/package/rb-conventional-changelog)
-- [cz-mapbox-changelog](https://www.npmjs.com/package/cz-mapbox-changelog)
+- [cz-mapbox-changelog](https://www.npmjs.com/package/@mapbox/cz-mapbox-changelog)
 - [cz-customizable](https://github.com/leonardoanalista/cz-customizable)
 - [commitlint](https://github.com/marionebl/commitlint)
 - [vscode-commitizen](https://github.com/KnisterPeter/vscode-commitizen)
